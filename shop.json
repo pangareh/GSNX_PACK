@@ -1,4 +1,4 @@
 {
-    "directories": ["http://76.145.71.183/games/switch","http://truongcuonggamestore.com/"],
+    "locations": [{"url":"http://76.145.71.183/games/switch","title":"GS1","action"="enable"},{"url":"http://truongcuonggamestore.com/","title":"GS2","action"="enable"}],
     "success": "GShop！\n\nLoja em constante atualização, (PS: Em breve lançamento do canal no YouTube, aguarde)\n\nUso restrito para quem adquiriu o chip！\nMais informações no site:\nhttps://github.com/pangareh/GSNX_PACK"
 }
